@@ -1,3 +1,4 @@
 # SGA08_DATSCI
-welcome to my repository. Waddup
-welcome to my repository. Updated version
+Welcome to my repository!
+It's a rollercoaster of my personal coding practices (wins and fails included)
+Have a great time looking through :)
