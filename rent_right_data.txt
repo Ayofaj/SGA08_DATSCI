@@ -1,0 +1,732 @@
+,type,area,bed,bath,toilet,price
+0,flat / apartment,Maryland,2 ,2 ,2 ,1000000
+1,detached duplex,Lekki,5 ,5 ,6 ,4000000
+2,detached duplex,Lekki,4 ,4 ,5 ,3500000
+3,terraced duplex,Ikeja,4 ,4 ,5 ,5500000
+4,semi detached duplex,Lekki,4 ,4 ,5 ,4000000
+5,flat / apartment,Lekki,3 ,3 ,4 ,2500000
+6,terraced duplex,Lekki,4 ,4 ,5 ,5000000
+7,semi detached duplex,Lekki,4 ,4 ,5 ,3500000
+8,semi detached duplex,Lekki,4 ,4 ,5 ,3500000
+9,terraced duplex,Lekki,4 ,4 ,5 ,2800000
+10,flat / apartment,Ikoyi,3 ,3 ,4 ,9000000
+11,flat / apartment,Ikoyi,3 ,3 ,4 ,10000000
+12,terraced duplex,Ikeja,4 ,4 ,5 ,6500000
+13,flat / apartment,Victoria Island,3 ,3 ,4 ,21500000
+14,terraced duplex,Ikoyi,4 ,5 ,4 ,15000000
+15,flat / apartment,Ikoyi,2 ,2 ,3 ,8000000
+16,terraced duplex,Lekki,4 ,4 ,5 ,6000000
+17,flat / apartment,Ikoyi,4 ,4 ,5 ,18000000
+18,terraced duplex,Victoria Island,4 ,5 ,6 ,10000000
+19,terraced duplex,Ikoyi,4 ,4 ,5 ,8000000
+20,flat / apartment,Ikoyi,2 ,2 ,3 ,8000000
+21,flat / apartment,Victoria Island,2 ,2 ,3 ,12000000
+22,flat / apartment,Ikoyi,3 ,3 ,4 ,10000000
+23,terraced duplex,Lekki,4 ,4 ,5 ,4500000
+24,flat / apartment,Oniru,3 ,3 ,4 ,4000000
+25,terraced duplex,Lekki,3 ,3 ,4 ,3700000
+26,flat / apartment,Ikoyi,2 ,2 ,3 ,13000000
+27,flat / apartment,Ikeja,3 ,3 ,4 ,2500000
+28,flat / apartment,Lekki,3 ,3 ,4 ,2800000
+29,flat / apartment,Lekki,3 ,3 ,4 ,3500000
+30,flat / apartment,Ikoyi,3 ,3 ,4 ,5000000
+31,flat / apartment,Lekki,3 ,3 ,4 ,3000000
+32,terraced duplex,Lekki,4 ,4 ,5 ,3500000
+33,terraced duplex,Lekki,4 ,4 ,5 ,3000000
+34,flat / apartment,Ikoyi,3 ,3 ,3 ,6000000
+35,flat / apartment,Ikoyi,4 ,4 ,4 ,15000000
+36,flat / apartment,Ikoyi,3 ,3 ,3 ,8000000
+37,flat / apartment,Ikoyi,3 ,3 ,4 ,10000000
+38,flat / apartment,Ikoyi,4 ,5 ,6 ,10000000
+39,semi detached duplex,Ikoyi,4 ,4 ,5 ,8000000
+40,detached duplex,Ikeja,4 ,4 ,5 ,10000000
+41,terraced duplex,Lekki,3 ,3 ,4 ,2300000
+42,flat / apartment,Ikoyi,4 ,5 ,6 ,15000000
+43,semi detached duplex,Lekki,4 ,4 ,5 ,4000000
+44,flat / apartment,Ikoyi,3 ,3 ,4 ,5000000
+45,semi detached duplex,Lekki,4 ,4 ,5 ,5000000
+46,terraced duplex,Oniru,4 ,5 ,4 ,7000000
+47,flat / apartment,Ikoyi,4 ,4 ,5 ,15000000
+48,terraced duplex,Lekki,4 ,4 ,5 ,24000000
+49,flat / apartment,Lekki,3 ,3 ,4 ,5000000
+50,flat / apartment,Victoria Island,3 ,3 ,4 ,10000000
+51,flat / apartment,Ikoyi,4 ,4 ,5 ,8500000
+52,terraced duplex,Ikoyi,4 ,4 ,5 ,11000000
+53,flat / apartment,Lekki,3 ,3 ,4 ,3500000
+54,flat / apartment,Victoria Island,4 ,4 ,5 ,18000000
+55,semi detached duplex,Ojo,4 ,4 ,5 ,4000000
+56,terraced duplex,Lekki,3 ,3 ,4 ,3000000
+57,flat / apartment,Ikoyi,3 ,3 ,4 ,40000
+58,flat / apartment,Lekki,3 ,3 ,4 ,70000000
+59,terraced duplex,Lekki,4 ,4 ,5 ,3200000
+60,semi detached duplex,Lekki,4 ,4 ,5 ,3500000
+61,terraced duplex,Lekki,3 ,3 ,4 ,3000000
+62,flat / apartment,Lekki,3 ,3 ,4 ,2600000
+63,terraced duplex,Ikoyi,4 ,4 ,4 ,6000000
+64,terraced duplex,Lekki,4 ,4 ,5 ,3500000
+65,flat / apartment,Oniru,2 ,2 ,2 ,7500000
+66,terraced duplex,Ikoyi,4 ,4 ,5 ,13000000
+67,flat / apartment,Ajah,4 ,4 ,4 ,1500000
+68,terraced duplex,Lekki,3 ,4 ,4 ,3500000
+69,flat / apartment,Ikoyi,3 ,3 ,4 ,6000000
+70,terraced duplex,Ikoyi,4 ,4 ,5 ,9000000
+71,flat / apartment,Ikoyi,3 ,3 ,4 ,15000000
+72,flat / apartment,Ikoyi,3 ,4 ,4 ,7000000
+73,semi detached duplex,Ikoyi,4 ,4 ,5 ,8000000
+74,flat / apartment,Victoria Island,3 ,3 ,4 ,13000000
+75,flat / apartment,Ikoyi,3 ,3 ,4 ,10000000
+76,semi detached duplex,Lekki,4 ,4 ,5 ,4000000
+77,flat / apartment,Ikoyi,3 ,3 ,4 ,12000000
+78,semi detached duplex,Ikoyi,4 ,4 ,5 ,11000000
+79,flat / apartment,Ikoyi,3 ,3 ,4 ,8500000
+80,terraced duplex,Ikoyi,4 ,4 ,5 ,9000000
+81,flat / apartment,Lekki,3 ,3 ,4 ,3000000
+82,terraced duplex,Oniru,4 ,4 ,5 ,5000000
+83,flat / apartment,Oniru,3 ,3 ,4 ,5000000
+84,terraced duplex,Gbagada,4 ,4 ,4 ,65000000
+85,flat / apartment,Victoria Island,3 ,3 ,4 ,12000000
+86,flat / apartment,Ikoyi,3 ,3 ,4 ,4000000
+87,terraced duplex,Lekki,4 ,4 ,5 ,4000000
+88,terraced duplex,Oniru,4 ,4 ,5 ,6000000
+89,flat / apartment,Ikoyi,3 ,3 ,4 ,8500000
+90,flat / apartment,Victoria Island,4 ,5 ,5 ,18000000
+91,terraced duplex,Ikoyi,4 ,4 ,5 ,4000000
+92,flat / apartment,Ikoyi,3 ,4 ,3 ,8000000
+93,terraced duplex,Lekki,5 ,5 ,6 ,5000000
+94,flat / apartment,Ikoyi,3 ,3 ,4 ,15000000
+95,flat / apartment,Ikoyi,2 ,3 ,3 ,7000000
+96,detached duplex,Ikoyi,3 ,3 ,4 ,8000000
+97,semi detached duplex,Ikoyi,4 ,4 ,5 ,20000000
+98,detached duplex,Ikoyi,5 ,5 ,5 ,50000000
+99,semi detached duplex,Lekki,4 ,4 ,4 ,3500000
+100,flat / apartment,Ikoyi,2 ,2 ,3 ,6000000
+101,flat / apartment,Victoria Island,3 ,3 ,4 ,9000000
+102,flat / apartment,Victoria Island,4 ,4 ,4 ,24000000
+103,flat / apartment,Victoria Island,3 ,3 ,4 ,6000000
+104,flat / apartment,Ikoyi,4 ,4 ,4 ,15000000
+105,terraced duplex,Ikoyi,4 ,4 ,5 ,9000000
+106,flat / apartment,Ikoyi,5 ,5 ,6 ,25000000
+107,terraced duplex,Ikoyi,4 ,4 ,5 ,12000000
+108,flat / apartment,Victoria Island,2 ,2 ,2 ,10000000
+109,flat / apartment,Oniru,3 ,3 ,4 ,4000000
+110,detached duplex,Victoria Island,4 ,4 ,5 ,20000000
+111,flat / apartment,Gbagada,1 ,1 ,1 ,500000
+112,flat / apartment,Lekki,4 ,4 ,5 ,3500000
+113,terraced duplex,Kosofe,3 ,3 ,4 ,2500000
+114,flat / apartment,Ikoyi,3 ,3 ,3 ,16000000
+115,flat / apartment,Ikoyi,3 ,3 ,4 ,8000000
+116,flat / apartment,Ikoyi,3 ,3 ,4 ,7000000
+117,detached duplex,Ikoyi,5 ,5 ,5 ,20000000
+118,flat / apartment,Ikoyi,4 ,4 ,5 ,18000000
+119,flat / apartment,Ikoyi,4 ,4 ,5 ,8000000
+120,flat / apartment,Victoria Island,3 ,3 ,4 ,7000000
+121,terraced duplex,Ikoyi,4 ,4 ,4 ,200000000
+122,flat / apartment,Ikoyi,4 ,4 ,4 ,7500000
+123,terraced duplex,Lagos Mainland,3 ,3 ,4 ,1500000
+124,flat / apartment,Abule,2 ,3 ,3 ,500000
+125,flat / apartment,Victoria Island,3 ,3 ,3 ,10000000
+126,flat / apartment,Akoka,1 ,1 ,1 ,600000
+127,flat / apartment,Victoria Island,1 ,1 ,2 ,4000000
+128,flat / apartment,Victoria Island,3 ,3 ,3 ,15000000
+129,flat / apartment,Ikoyi,3 ,3 ,3 ,9000000
+130,terraced duplex,Ikoyi,4 ,4 ,5 ,9000000
+131,flat / apartment,Ikoyi,4 ,4 ,4 ,8000000
+132,flat / apartment,Ikoyi,4 ,4 ,4 ,8000000
+133,semi detached duplex,Ikoyi,4 ,4 ,4 ,15000000
+134,flat / apartment,Lekki,3 ,3 ,4 ,4000000
+135,flat / apartment,Victoria Island,4 ,4 ,5 ,18000000
+136,flat / apartment,Ikoyi,4 ,4 ,4 ,4000000
+137,flat / apartment,Ikoyi,2 ,2 ,3 ,14000000
+138,flat / apartment,Ikoyi,4 ,4 ,4 ,12000000
+139,flat / apartment,Victoria Island,5 ,5 ,5 ,25000000
+140,flat / apartment,Victoria Island,3 ,3 ,3 ,12000000
+141,terraced duplex,Ikoyi,5 ,5 ,6 ,15000000
+142,detached duplex,Ikoyi,4 ,4 ,4 ,7000000
+143,flat / apartment,Ikoyi,3 ,3 ,4 ,7500000
+144,detached duplex,Lekki,5 ,5 ,6 ,4000000
+145,detached duplex,Victoria Island,4 ,4 ,5 ,20000000
+146,flat / apartment,Ikoyi,3 ,3 ,3 ,7500000
+147,flat / apartment,Victoria Island,4 ,4 ,4 ,36000000
+148,flat / apartment,Ikoyi,3 ,3 ,4 ,7000000
+149,flat / apartment,Ikoyi,3 ,3 ,4 ,8000000
+150,flat / apartment,Victoria Island,3 ,3 ,3 ,18000000
+151,flat / apartment,Ikoyi,2 ,2 ,3 ,7000000
+152,flat / apartment,Victoria Island,4 ,4 ,4 ,24000000
+153,flat / apartment,Ikoyi,3 ,3 ,4 ,7000000
+154,semi detached duplex,Ikoyi,5 ,5 ,5 ,8000000
+155,flat / apartment,Lagos Mainland,3 ,3 ,4 ,1200000
+156,flat / apartment,Lekki,3 ,3 ,3 ,2500000
+157,detached duplex,Victoria Island,5 ,5 ,5 ,20000000
+158,detached duplex,Victoria Island,4 ,4 ,4 ,15000000
+159,flat / apartment,Ikoyi,2 ,2 ,2 ,7500000
+160,semi detached duplex,Victoria Island,4 ,4 ,4 ,15000000
+161,terraced duplex,Ikoyi,4 ,4 ,5 ,16000000
+162,terraced duplex,Ikoyi,4 ,4 ,4 ,10000000
+163,flat / apartment,Victoria Island,2 ,2 ,2 ,7000000
+164,flat / apartment,Victoria Island,2 ,2 ,2 ,6000000
+165,flat / apartment,Victoria Island,3 ,3 ,3 ,18000000
+166,flat / apartment,Ikoyi,3 ,3 ,4 ,6000000
+167,flat / apartment,Lagos Mainland,3 ,3 ,4 ,1500000
+168,semi detached duplex,Lekki,4 ,4 ,4 ,4000000
+169,flat / apartment,Anthony Village,3 ,3 ,4 ,1800000
+170,flat / apartment,Maryland,2 ,2 ,3 ,1000000
+171,flat / apartment,Maryland,2 ,2 ,3 ,1000000
+172,flat / apartment,Lawanson,1 ,1 ,1 ,600000
+173,flat / apartment,Lekki,2 ,3 ,3 ,2300000
+174,flat / apartment,Lekki,2 ,2 ,2 ,1600000
+175,flat / apartment,Gbagada,3 ,3 ,4 ,1300000
+176,flat / apartment,Surulere,2 ,2 ,2 ,1200000
+177,terraced duplex,Surulere,3 ,2 ,3 ,2500000
+178,flat / apartment,Surulere,3 ,3 ,4 ,2500000
+179,flat / apartment,Victoria Island,4 ,4 ,5 ,10000000
+180,flat / apartment,Surulere,3 ,3 ,3 ,2000000
+181,flat / apartment,Lekki,3 ,2 ,4 ,3500000
+182,flat / apartment,Ojo,2 ,2 ,3 ,900000
+183,flat / apartment,Ikorodu,1 ,1 ,1 ,150000
+184,flat / apartment,Lekki,2 ,2 ,3 ,2000000
+185,flat / apartment,Alimosho,1 ,2 ,2 ,220000
+186,flat / apartment,Lekki,2 ,2 ,3 ,2500000
+187,flat / apartment,Lawanson,2 ,2 ,2 ,750000
+188,flat / apartment,Lekki,1 ,1 ,1 ,600000
+189,flat / apartment,Lekki,1 ,1 ,1 ,350000
+190,flat / apartment,Lekki,3 ,3 ,4 ,3500000
+191,terraced duplex,Lekki,4 ,4 ,5 ,3000000
+192,semi detached duplex,Lekki,5 ,4 ,5 ,15000000
+193,flat / apartment,Lekki,3 ,3 ,3 ,3500000
+194,flat / apartment,Lekki,1 ,1 ,1 ,600000
+195,flat / apartment,Ogba,1 ,1 ,1 ,120000
+196,flat / apartment,Agege,2 ,3 ,3 ,700000
+197,flat / apartment,Ikorodu,1 ,1 ,1 ,160000
+198,detached duplex,Kosofe,5 ,6 ,6 ,5000000
+199,flat / apartment,Lekki,3 ,3 ,4 ,3500000
+200,flat / apartment,Kosofe,3 ,3 ,4 ,2500000
+201,flat / apartment,Ogba,3 ,3 ,4 ,650000
+202,flat / apartment,Ogba,1 ,1 ,1 ,280000
+203,detached duplex,Lekki,4 ,4 ,5 ,8000000
+204,flat / apartment,Ajah,1 ,1 ,1 ,250000
+205,flat / apartment,Ikeja,1 ,1 ,2 ,500000
+206,flat / apartment,Yaba,1 ,2 ,2 ,600000
+207,flat / apartment,Lekki,1 ,1 ,1 ,1200000
+208,flat / apartment,Lekki,1 ,1 ,1 ,600000
+209,flat / apartment,Gbagada,2 ,2 ,3 ,1000000
+210,flat / apartment,Lekki,1 ,1 ,1 ,1200000
+211,flat / apartment,Ikorodu,1 ,1 ,1 ,130000
+212,flat / apartment,Surulere,2 ,1 ,1 ,550000
+213,flat / apartment,Lawanson,1 ,2 ,2 ,550000
+214,flat / apartment,Surulere,2 ,2 ,2 ,1000000
+215,detached duplex,Lekki,5 ,5 ,6 ,6500000
+216,flat / apartment,Oniru,3 ,3 ,4 ,4000000
+217,flat / apartment,Lawanson,1 ,1 ,1 ,450000
+218,semi detached duplex,Lekki,4 ,4 ,5 ,2500000
+219,flat / apartment,Ikoyi,1 ,2 ,2 ,2000000
+220,flat / apartment,Ajah,1 ,1 ,1 ,500000
+221,terraced duplex,Ikoyi,4 ,4 ,5 ,15000000
+222,flat / apartment,Yaba,3 ,3 ,4 ,1500000
+223,flat / apartment,Ajah,1 ,1 ,1 ,350000
+224,flat / apartment,Ikoyi,3 ,3 ,4 ,13000000
+225,detached duplex,Lekki,5 ,7 ,7 ,6000000
+226,flat / apartment,Ajah,2 ,3 ,3 ,800000
+227,flat / apartment,Ogba,1 ,1 ,1 ,270000
+228,flat / apartment,Lekki,2 ,2 ,2 ,2200000
+229,detached duplex,Oniru,4 ,5 ,5 ,5500000
+230,flat / apartment,Yaba,3 ,3 ,4 ,2500000
+231,flat / apartment,Ikoyi,3 ,3 ,4 ,10000000
+232,flat / apartment,Oniru,3 ,3 ,4 ,4500000
+233,semi detached duplex,Lekki,3 ,3 ,4 ,4000000
+234,flat / apartment,Ajah,2 ,2 ,3 ,1200000
+235,detached duplex,Lekki,4 ,4 ,5 ,3000000
+236,flat / apartment,Ogba,3 ,3 ,4 ,1000000
+237,flat / apartment,Victoria Island,4 ,4 ,5 ,10000000
+238,flat / apartment,Ogba,1 ,1 ,1 ,250000
+239,flat / apartment,Lekki,1 ,1 ,1 ,650000
+240,flat / apartment,Surulere,2 ,2 ,2 ,900000
+241,flat / apartment,Surulere,2 ,2 ,3 ,1000000
+242,flat / apartment,Surulere,2 ,2 ,2 ,900000
+243,flat / apartment,Ogudu,3 ,3 ,4 ,1800000
+244,flat / apartment,Maryland,1 ,1 ,1 ,1000000
+245,flat / apartment,Ikeja,1 ,1 ,1 ,1000000
+246,flat / apartment,Ogba,2 ,2 ,3 ,700000
+247,flat / apartment,Ajah,3 ,3 ,4 ,850000
+248,flat / apartment,Gbagada,3 ,3 ,4 ,1600000
+249,flat / apartment,Gbagada,2 ,2 ,3 ,1300000
+250,detached bungalow,Gbagada,3 ,3 ,2 ,1000000
+251,flat / apartment,Maryland,2 ,2 ,3 ,650000
+252,flat / apartment,Surulere,4 ,4 ,5 ,1600000
+253,flat / apartment,Ajah,1 ,1 ,1 ,375000
+254,flat / apartment,Ojo,2 ,1 ,2 ,650000
+255,flat / apartment,Oniru,3 ,3 ,4 ,4000000
+256,detached duplex,Lekki,4 ,4 ,5 ,4500000
+257,flat / apartment,Ajah,2 ,2 ,3 ,850000
+258,flat / apartment,Ajah,3 ,3 ,3 ,700000
+259,flat / apartment,Ajah,2 ,2 ,3 ,900000
+260,flat / apartment,Ajah,2 ,2 ,3 ,1300000
+261,flat / apartment,Ajah,3 ,3 ,4 ,1200000
+262,flat / apartment,Ajah,4 ,4 ,5 ,1500000
+263,flat / apartment,Ajah,3 ,3 ,4 ,1500000
+264,detached duplex,Ajah,4 ,4 ,5 ,55000000
+265,flat / apartment,Ajah,2 ,2 ,3 ,1000000
+266,flat / apartment,Ajah,2 ,2 ,3 ,900000
+267,flat / apartment,Ajah,2 ,2 ,3 ,850000
+268,flat / apartment,Lekki,1 ,1 ,1 ,350000
+269,flat / apartment,Lekki,3 ,3 ,4 ,5000000
+270,flat / apartment,Yaba,3 ,3 ,4 ,1500000
+271,flat / apartment,Lekki,1 ,1 ,1 ,500000
+272,flat / apartment,Yaba,3 ,3 ,4 ,1500000
+273,flat / apartment,Akoka,3 ,3 ,3 ,1200000
+274,flat / apartment,Yaba,3 ,3 ,4 ,1500000
+275,flat / apartment,Ikoyi,4 ,4 ,5 ,17000000
+276,semi detached duplex,Lekki,4 ,4 ,5 ,3500000
+277,flat / apartment,Ikoyi,2 ,3 ,4 ,7000000
+278,semi detached duplex,Lekki,4 ,4 ,5 ,4000000
+279,terraced duplex,Lekki,4 ,4 ,5 ,3000000
+280,flat / apartment,Victoria Island,3 ,3 ,4 ,25000
+281,semi detached duplex,Lekki,4 ,4 ,5 ,4000000
+282,terraced duplex,Ikoyi,4 ,4 ,5 ,5000000
+283,flat / apartment,Ikoyi,3 ,3 ,4 ,15000000
+284,flat / apartment,Ikoyi,2 ,2 ,3 ,10000000
+285,terraced duplex,Lekki,4 ,4 ,5 ,5000000
+286,flat / apartment,Ikoyi,3 ,3 ,4 ,220000000
+287,flat / apartment,Surulere,3 ,3 ,4 ,2500000
+288,terraced duplex,Ikoyi,4 ,4 ,5 ,10000000
+289,flat / apartment,Victoria Island,3 ,3 ,4 ,8000000
+290,terraced duplex,Lekki,3 ,3 ,4 ,2500000
+291,flat / apartment,Victoria Island,3 ,3 ,4 ,65000
+292,flat / apartment,Ikoyi,1 ,1 ,2 ,7500000
+293,semi detached duplex,Lekki,4 ,4 ,5 ,65000000
+294,flat / apartment,Ikoyi,3 ,3 ,4 ,4000000
+295,semi detached duplex,Ikoyi,4 ,4 ,5 ,13000000
+296,terraced duplex,Lekki,4 ,4 ,5 ,4000000
+297,semi detached duplex,Ikoyi,5 ,5 ,6 ,9000000
+298,flat / apartment,Ikoyi,4 ,5 ,5 ,16000000
+299,terraced duplex,Ikoyi,4 ,4 ,5 ,15000000
+300,flat / apartment,Ikoyi,2 ,2 ,3 ,8000000
+301,flat / apartment,Ikoyi,4 ,4 ,5 ,21000000
+302,flat / apartment,Victoria Island,2 ,2 ,3 ,18500000
+303,flat / apartment,Lekki,4 ,4 ,5 ,2600000
+304,flat / apartment,Ikoyi,3 ,3 ,4 ,15000000
+305,flat / apartment,Oniru,3 ,3 ,4 ,3500000
+306,semi detached duplex,Ikoyi,5 ,5 ,6 ,5000000
+307,terraced duplex,Lekki,4 ,4 ,5 ,5000000
+308,flat / apartment,Lekki,3 ,3 ,4 ,3500000
+309,flat / apartment,Ikoyi,3 ,3 ,4 ,15000000
+310,terraced duplex,Ikoyi,5 ,5 ,6 ,13000000
+311,terraced duplex,Ikoyi,4 ,4 ,5 ,8500000
+312,semi detached duplex,Lekki,4 ,4 ,5 ,4000000
+313,terraced duplex,Lekki,4 ,4 ,5 ,65000000
+314,flat / apartment,Lekki,2 ,2 ,3 ,2200000
+315,terraced duplex,Lekki,4 ,4 ,5 ,3000000
+316,flat / apartment,Aguda,3 ,3 ,4 ,1000000
+317,terraced duplex,Lekki,4 ,4 ,5 ,3500000
+318,detached duplex,Victoria Island,5 ,6 ,7 ,9000000
+319,flat / apartment,Oniru,3 ,3 ,4 ,3500000
+320,semi detached duplex,Ikoyi,4 ,4 ,5 ,8500000
+321,flat / apartment,Ikoyi,3 ,3 ,3 ,23000000
+322,semi detached duplex,Ikoyi,3 ,3 ,4 ,10000000
+323,flat / apartment,Ikoyi,4 ,4 ,5 ,20000000
+324,terraced duplex,Ikoyi,4 ,4 ,5 ,8000000
+325,detached duplex,Lekki,4 ,4 ,5 ,4200000
+326,semi detached duplex,Surulere,4 ,4 ,4 ,3000000
+327,flat / apartment,Ikoyi,3 ,3 ,4 ,10000000
+328,flat / apartment,Ikoyi,2 ,2 ,3 ,8000000
+329,semi detached duplex,Lekki,5 ,5 ,6 ,8000000
+330,flat / apartment,Surulere,2 ,2 ,3 ,2200000
+331,flat / apartment,Victoria Island,2 ,2 ,3 ,4000000
+332,detached duplex,Ojo,7 ,7 ,8 ,6500000
+333,flat / apartment,Ikoyi,3 ,3 ,4 ,7000000
+334,terraced duplex,Lekki,4 ,4 ,4 ,6000000
+335,flat / apartment,Ikoyi,3 ,3 ,4 ,4500000
+336,flat / apartment,Ikoyi,3 ,3 ,4 ,8000000
+337,flat / apartment,Ikoyi,3 ,3 ,5 ,4000000
+338,flat / apartment,Lekki,4 ,4 ,5 ,4000000
+339,detached duplex,Ikoyi,5 ,5 ,6 ,15000000
+340,semi detached duplex,Ikoyi,4 ,4 ,5 ,12500000
+341,terraced duplex,Ikoyi,3 ,3 ,4 ,14500000
+342,terraced duplex,Lekki,4 ,4 ,5 ,3000000
+343,flat / apartment,Ikoyi,2 ,3 ,3 ,7000000
+344,terraced duplex,Ikoyi,4 ,4 ,5 ,7000000
+345,flat / apartment,Victoria Island,1 ,1 ,2 ,12000000
+346,semi detached duplex,Oniru,5 ,6 ,5 ,5500000
+347,terraced duplex,Surulere,4 ,4 ,5 ,3000000
+348,terraced duplex,Ikoyi,4 ,4 ,5 ,8500000
+349,flat / apartment,Ikoyi,3 ,3 ,4 ,6000000
+350,semi detached duplex,Lekki,4 ,4 ,5 ,3500000
+351,flat / apartment,Ikoyi,3 ,3 ,4 ,7000000
+352,flat / apartment,Ikoyi,3 ,2 ,3 ,10000000
+353,flat / apartment,Victoria Island,3 ,3 ,4 ,15000000
+354,terraced duplex,Lekki,4 ,4 ,5 ,3200000
+355,flat / apartment,Lekki,3 ,3 ,4 ,3500000
+356,flat / apartment,Oniru,3 ,3 ,4 ,5000000
+357,flat / apartment,Ikoyi,4 ,4 ,5 ,16000000
+358,flat / apartment,Ikoyi,3 ,3 ,4 ,10000000
+359,flat / apartment,Victoria Island,3 ,3 ,4 ,14000000
+360,flat / apartment,Lekki,3 ,3 ,4 ,3000000
+361,flat / apartment,Victoria Island,3 ,3 ,4 ,3500000
+362,semi detached duplex,Ikoyi,4 ,4 ,4 ,10000000
+363,flat / apartment,Ikoyi,2 ,2 ,3 ,7000000
+364,terraced duplex,Ikoyi,4 ,4 ,5 ,7000000
+365,semi detached duplex,Lekki,4 ,4 ,5 ,3500000
+366,detached duplex,Lekki,4 ,4 ,5 ,4500000
+367,shop,Lekki,1 ,1 ,1 ,800000
+368,terraced duplex,Ikoyi,4 ,4 ,5 ,15000000
+369,terraced duplex,Ikoyi,4 ,4 ,5 ,15000000
+370,flat / apartment,Lekki,2 ,2 ,3 ,3200000
+371,flat / apartment,Ikoyi,3 ,3 ,4 ,8000000
+372,flat / apartment,Ikoyi,3 ,3 ,3 ,8500000
+373,terraced duplex,Lekki,3 ,3 ,4 ,2800000
+374,flat / apartment,Ikoyi,4 ,5 ,6 ,12000000
+375,semi detached duplex,Ikoyi,4 ,4 ,5 ,6500000
+376,flat / apartment,Ikoyi,3 ,3 ,4 ,80000
+377,terraced duplex,Ikoyi,4 ,4 ,5 ,10000000
+378,terraced duplex,Ikoyi,4 ,4 ,5 ,15000000
+379,flat / apartment,Ikoyi,3 ,3 ,4 ,14000000
+380,flat / apartment,Ikoyi,3 ,3 ,4 ,4000000
+381,flat / apartment,Ikoyi,4 ,4 ,5 ,20000000
+382,semi detached duplex,Ikoyi,5 ,5 ,6 ,13000000
+383,flat / apartment,Ikoyi,4 ,4 ,5 ,10000000
+384,flat / apartment,Ikoyi,3 ,3 ,4 ,12000000
+385,terraced duplex,Ikoyi,4 ,4 ,5 ,10000000
+386,terraced duplex,Ikoyi,4 ,4 ,5 ,12000000
+387,flat / apartment,Ojuelegba,2 ,2 ,3 ,1000000
+388,terraced duplex,Ikoyi,4 ,4 ,5 ,10000000
+389,flat / apartment,Ikoyi,1 ,1 ,2 ,5000000
+390,semi detached duplex,Lekki,4 ,4 ,5 ,6000000
+391,semi detached duplex,Lekki,4 ,4 ,5 ,3500000
+392,flat / apartment,Ikoyi,3 ,3 ,4 ,7500000
+393,flat / apartment,Ikoyi,4 ,4 ,5 ,8000000
+394,flat / apartment,Ikoyi,3 ,3 ,4 ,12000000
+395,flat / apartment,Surulere,3 ,2 ,2 ,1500000
+396,terraced duplex,Ikoyi,4 ,4 ,5 ,20000000
+397,flat / apartment,Lekki,3 ,3 ,4 ,2200000
+398,semi detached duplex,Ikoyi,5 ,5 ,6 ,8000000
+399,flat / apartment,Ikoyi,3 ,3 ,4 ,100000
+400,terraced duplex,Ikoyi,3 ,3 ,4 ,13500000
+401,flat / apartment,Oniru,1 ,1 ,1 ,2250000
+402,terraced duplex,Lekki,5 ,5 ,6 ,10000000
+403,flat / apartment,Oniru,3 ,4 ,4 ,5000000
+404,flat / apartment,Ikoyi,2 ,2 ,3 ,6000000
+405,terraced duplex,Lekki,4 ,4 ,5 ,3500000
+406,terraced duplex,Oniru,3 ,3 ,4 ,4500000
+407,flat / apartment,Ikoyi,3 ,3 ,4 ,15000000
+408,flat / apartment,Ikoyi,4 ,5 ,5 ,7500000
+409,flat / apartment,Iyana Ipaja,2 ,2 ,3 ,350000
+410,terraced duplex,Ikoyi,4 ,4 ,5 ,10000000
+411,terraced duplex,Lekki,4 ,4 ,5 ,3000000
+412,flat / apartment,Ikoyi,2 ,2 ,3 ,7500000
+413,flat / apartment,Ikoyi,2 ,2 ,3 ,18000000
+414,flat / apartment,Oniru,3 ,4 ,4 ,5000000
+415,flat / apartment,Ikoyi,5 ,5 ,6 ,15000000
+416,terraced duplex,Lekki,4 ,4 ,5 ,4000000
+417,flat / apartment,Iwaya,3 ,4 ,5 ,1500000
+418,flat / apartment,Ikoyi,4 ,4 ,5 ,25000000
+419,flat / apartment,Ikoyi,3 ,3 ,4 ,7500000
+420,flat / apartment,Ikoyi,3 ,3 ,4 ,7000000
+421,terraced duplex,Ikoyi,4 ,4 ,5 ,12000000
+422,flat / apartment,Ikoyi,1 ,1 ,2 ,7000000
+423,flat / apartment,Victoria Island,3 ,3 ,4 ,18000000
+424,flat / apartment,Ikoyi,4 ,4 ,5 ,14000000
+425,flat / apartment,Lekki,3 ,3 ,4 ,3800000
+426,flat / apartment,Victoria Island,3 ,3 ,4 ,17000000
+427,terraced duplex,Ikoyi,5 ,5 ,6 ,8000000
+428,terraced duplex,Ikoyi,3 ,3 ,4 ,10000000
+429,flat / apartment,Oniru,3 ,3 ,4 ,4000000
+430,flat / apartment,Gbagada,3 ,3 ,3 ,1400000
+431,flat / apartment,Lekki,3 ,3 ,4 ,1800000
+432,terraced duplex,Ikoyi,4 ,4 ,5 ,10000000
+433,terraced duplex,Lekki,4 ,4 ,5 ,3000000
+434,flat / apartment,Ikoyi,2 ,2 ,3 ,4500000
+435,flat / apartment,Ikoyi,3 ,3 ,4 ,5000000
+436,terraced duplex,Ikoyi,4 ,4 ,5 ,8500000
+437,flat / apartment,Lekki,3 ,3 ,4 ,5000000
+438,flat / apartment,Lekki,3 ,3 ,4 ,3500000
+439,detached duplex,Ikoyi,5 ,5 ,6 ,15000000
+440,flat / apartment,Ikoyi,2 ,2 ,3 ,3500000
+441,terraced duplex,Ikoyi,3 ,3 ,4 ,16000000
+442,terraced duplex,Lekki,5 ,5 ,6 ,6000000
+443,flat / apartment,Lekki,2 ,2 ,3 ,2700000
+444,flat / apartment,Ikoyi,4 ,4 ,5 ,10000000
+445,flat / apartment,Lekki,3 ,3 ,4 ,2500000
+446,flat / apartment,Ikoyi,3 ,2 ,3 ,7500000
+447,terraced duplex,Lekki,5 ,5 ,6 ,7000000
+448,terraced duplex,Lekki,5 ,5 ,6 ,5000000
+449,flat / apartment,Ikoyi,3 ,3 ,4 ,13000000
+450,flat / apartment,Ikoyi,3 ,3 ,4 ,9000000
+451,terraced duplex,Ikoyi,4 ,4 ,5 ,10000000
+452,flat / apartment,Lekki,3 ,3 ,4 ,3000000
+453,detached duplex,Lekki,5 ,5 ,6 ,5500000
+454,flat / apartment,Abule,3 ,3 ,4 ,33000000
+455,semi detached duplex,Lekki,5 ,5 ,6 ,10000000
+456,flat / apartment,Ikoyi,3 ,3 ,4 ,10000000
+457,flat / apartment,Ikoyi,3 ,3 ,4 ,9000000
+458,terraced duplex,Lekki,4 ,4 ,5 ,3500000
+459,flat / apartment,Ikoyi,4 ,4 ,5 ,10000000
+460,flat / apartment,Victoria Island,1 ,1 ,2 ,28000
+461,flat / apartment,Ikoyi,3 ,4 ,4 ,13500000
+462,flat / apartment,Ikoyi,4 ,4 ,5 ,11000000
+463,terraced duplex,Lekki,4 ,4 ,5 ,4500000
+464,flat / apartment,Oniru,1 ,1 ,2 ,1800000
+465,terraced duplex,Ikoyi,4 ,4 ,5 ,12000000
+466,flat / apartment,Lekki,2 ,2 ,3 ,2000000
+467,terraced duplex,Ikoyi,4 ,4 ,5 ,14500000
+468,flat / apartment,Ikoyi,4 ,4 ,5 ,8000000
+469,flat / apartment,Oniru,2 ,2 ,3 ,5000000
+470,flat / apartment,Victoria Island,4 ,4 ,5 ,10000000
+471,flat / apartment,Ikoyi,3 ,3 ,4 ,20000000
+472,flat / apartment,Lekki,3 ,3 ,4 ,2500000
+473,flat / apartment,Ikoyi,3 ,3 ,4 ,12000000
+474,flat / apartment,Ikoyi,3 ,3 ,4 ,9000000
+475,flat / apartment,Ikoyi,3 ,3 ,4 ,11000000
+476,detached duplex,Lekki,5 ,5 ,6 ,85000000
+477,terraced duplex,Lekki,4 ,4 ,5 ,5000000
+478,flat / apartment,Victoria Island,3 ,3 ,4 ,15000000
+479,terraced duplex,Lekki,4 ,4 ,5 ,8000000
+480,flat / apartment,Lekki,3 ,3 ,4 ,2600000
+481,flat / apartment,Ikoyi,3 ,3 ,4 ,7000000
+482,flat / apartment,Oniru,3 ,3 ,4 ,3800000
+483,flat / apartment,Lekki,3 ,3 ,4 ,3500000
+484,flat / apartment,Ikoyi,2 ,3 ,3 ,12000000
+485,semi detached duplex,Ladipo,4 ,3 ,4 ,2200000
+486,terraced duplex,Ikoyi,4 ,4 ,5 ,8000000
+487,detached duplex,Lekki,5 ,5 ,6 ,4500000
+488,detached duplex,Ajah,4 ,4 ,5 ,3600000
+489,flat / apartment,Victoria Island,3 ,3 ,4 ,13000000
+490,flat / apartment,Ikoyi,3 ,3 ,4 ,10000000
+491,flat / apartment,Ikoyi,2 ,2 ,3 ,8000000
+492,terraced duplex,Ikoyi,4 ,4 ,5 ,13000000
+493,flat / apartment,Ikoyi,3 ,3 ,4 ,10000000
+494,flat / apartment,Ikoyi,3 ,3 ,4 ,9000000
+495,flat / apartment,Lekki,2 ,2 ,3 ,2000000
+496,flat / apartment,Lekki,3 ,3 ,4 ,2300000
+497,terraced duplex,Lekki,4 ,4 ,5 ,3000000
+498,semi detached duplex,Lekki,4 ,4 ,5 ,3500000
+499,flat / apartment,Surulere,3 ,3 ,4 ,1100000
+500,semi detached duplex,Ikoyi,5 ,5 ,6 ,15000000
+501,flat / apartment,Lekki,3 ,3 ,4 ,4500000
+502,terraced duplex,Oniru,4 ,4 ,5 ,5000000
+503,flat / apartment,Ikoyi,3 ,4 ,4 ,12000000
+504,flat / apartment,Lekki,3 ,3 ,4 ,2000000
+505,flat / apartment,Ikoyi,2 ,2 ,3 ,10000000
+506,semi detached duplex,Lekki,4 ,4 ,4 ,3500000
+507,flat / apartment,Lekki,3 ,3 ,4 ,6500000
+508,flat / apartment,Ikoyi,2 ,2 ,3 ,10000000
+509,semi detached duplex,Lekki,6 ,6 ,7 ,6500000
+510,semi detached duplex,Lekki,5 ,5 ,6 ,7000000
+511,flat / apartment,Oniru,3 ,3 ,4 ,3500000
+512,flat / apartment,Ikoyi,3 ,3 ,4 ,6500000
+513,flat / apartment,Ikoyi,3 ,3 ,4 ,11000000
+514,flat / apartment,Ikoyi,2 ,2 ,3 ,6500000
+515,flat / apartment,Ikoyi,3 ,3 ,4 ,6000000
+516,terraced duplex,Ikoyi,3 ,3 ,4 ,15000000
+517,semi detached duplex,Lekki,3 ,3 ,4 ,4500000
+518,flat / apartment,Victoria Island,3 ,3 ,4 ,15000000
+519,flat / apartment,Anthony Village,3 ,3 ,4 ,1800000
+520,flat / apartment,Oniru,3 ,3 ,4 ,3000000
+521,semi detached duplex,Lekki,4 ,4 ,5 ,3500000
+522,flat / apartment,Ikoyi,2 ,2 ,3 ,7000000
+523,semi detached duplex,Ikoyi,4 ,4 ,5 ,15000000
+524,flat / apartment,Ikoyi,3 ,3 ,4 ,7500000
+525,semi detached duplex,Lekki,4 ,4 ,5 ,4000000
+526,flat / apartment,Ojuelegba,2 ,2 ,2 ,1300000
+527,terraced duplex,Lekki,4 ,4 ,5 ,5000000
+528,flat / apartment,Maryland,3 ,3 ,4 ,3000000
+529,flat / apartment,Ikoyi,3 ,4 ,4 ,7000000
+530,terraced duplex,Ikoyi,4 ,4 ,5 ,18000000
+531,terraced duplex,Ikoyi,4 ,4 ,5 ,15000000
+532,semi detached duplex,Lekki,4 ,4 ,5 ,3500000
+533,flat / apartment,Ikoyi,3 ,3 ,4 ,15000000
+534,flat / apartment,Ikoyi,4 ,4 ,5 ,15000000
+535,semi detached duplex,Ikoyi,4 ,4 ,5 ,6000000
+536,terraced duplex,Lekki,4 ,4 ,5 ,5000000
+537,flat / apartment,Ikoyi,3 ,3 ,4 ,15000000
+538,flat / apartment,Ikoyi,3 ,3 ,4 ,50000
+539,semi detached duplex,Lekki,4 ,4 ,5 ,3500000
+540,flat / apartment,Ikoyi,3 ,3 ,4 ,11000000
+541,terraced duplex,Ikoyi,4 ,4 ,5 ,12000000
+542,flat / apartment,Ikoyi,2 ,2 ,3 ,6000000
+543,flat / apartment,Ikoyi,2 ,2 ,3 ,8000000
+544,flat / apartment,Lekki,4 ,4 ,5 ,120000000
+545,flat / apartment,Victoria Island,3 ,3 ,4 ,10000000
+546,flat / apartment,Ikoyi,3 ,3 ,4 ,6000000
+547,semi detached duplex,Lekki,4 ,4 ,5 ,3800000
+548,semi detached duplex,Lekki,4 ,4 ,5 ,4000000
+549,terraced duplex,Ikoyi,4 ,4 ,5 ,8000000
+550,flat / apartment,Lekki,3 ,3 ,4 ,800000
+551,terraced duplex,Ikoyi,4 ,4 ,5 ,9000000
+552,terraced duplex,Lekki,4 ,4 ,5 ,6000000
+553,flat / apartment,Ikoyi,3 ,3 ,4 ,8500000
+554,flat / apartment,Lekki,2 ,2 ,3 ,35000000
+555,flat / apartment,Ikoyi,2 ,2 ,3 ,6000000
+556,flat / apartment,Lekki,3 ,3 ,4 ,2500000
+557,semi detached duplex,Lekki,3 ,3 ,4 ,3500000
+558,terraced duplex,Lekki,3 ,4 ,5 ,4000000
+559,terraced duplex,Ikoyi,3 ,3 ,4 ,13000000
+560,terraced duplex,Ikoyi,4 ,4 ,5 ,12000000
+561,flat / apartment,Lekki,3 ,3 ,4 ,50000
+562,detached duplex,Oniru,5 ,5 ,6 ,5000000
+563,flat / apartment,Ikoyi,2 ,2 ,3 ,4500000
+564,flat / apartment,Lekki,3 ,3 ,4 ,2800000
+565,flat / apartment,Lekki,4 ,4 ,5 ,12000000
+566,flat / apartment,Ikoyi,3 ,3 ,4 ,5000000
+567,semi detached duplex,Lekki,7 ,7 ,8 ,6000000
+568,terraced duplex,Lekki,4 ,4 ,5 ,3000000
+569,semi detached duplex,Lekki,4 ,4 ,5 ,4000000
+570,flat / apartment,Lekki,1 ,1 ,2 ,2000000
+571,terraced duplex,Ikoyi,5 ,5 ,6 ,7000000
+572,detached duplex,Lekki,5 ,5 ,6 ,4500000
+573,flat / apartment,Lekki,3 ,3 ,4 ,3500000
+574,flat / apartment,Surulere,2 ,2 ,2 ,1200000
+575,flat / apartment,Ikoyi,4 ,4 ,4 ,12000000
+576,terraced duplex,Ikoyi,4 ,4 ,5 ,5500000
+577,flat / apartment,Oniru,3 ,3 ,4 ,3500000
+578,terraced duplex,Lekki,4 ,4 ,5 ,3000000
+579,terraced duplex,Ikoyi,4 ,4 ,5 ,8000000
+580,flat / apartment,Lekki,3 ,3 ,4 ,4500000
+581,semi detached duplex,Lekki,4 ,4 ,5 ,6500000
+582,detached duplex,Ikoyi,4 ,4 ,5 ,12500000
+583,flat / apartment,Ikoyi,3 ,3 ,3 ,11000000
+584,flat / apartment,Lekki,3 ,3 ,4 ,3800000
+585,flat / apartment,Victoria Island,2 ,2 ,3 ,10000000
+586,flat / apartment,Ikoyi,4 ,4 ,5 ,12000000
+587,flat / apartment,Ikoyi,5 ,5 ,6 ,7000000
+588,flat / apartment,Ikoyi,3 ,3 ,4 ,150000000
+589,flat / apartment,Ikoyi,3 ,3 ,4 ,70000
+590,terraced duplex,Ikoyi,3 ,3 ,4 ,13000000
+591,flat / apartment,Ikoyi,3 ,3 ,4 ,15000000
+592,flat / apartment,Lawanson,2 ,2 ,2 ,600000
+593,semi detached duplex,Ikoyi,4 ,4 ,5 ,9000000
+594,flat / apartment,Lekki,3 ,3 ,4 ,4500000
+595,flat / apartment,Ikoyi,3 ,3 ,4 ,8500000
+596,flat / apartment,Lekki,1 ,1 ,2 ,1000000
+597,detached duplex,Lekki,4 ,5 ,6 ,5500000
+598,flat / apartment,Ladipo,3 ,3 ,4 ,2500000
+599,flat / apartment,Ikoyi,4 ,4 ,5 ,10000000
+600,flat / apartment,Ikoyi,3 ,3 ,4 ,6500000
+601,flat / apartment,Victoria Island,3 ,3 ,3 ,8000000
+602,flat / apartment,Ikoyi,3 ,3 ,3 ,12500000
+603,flat / apartment,Ikoyi,4 ,4 ,4 ,12000000
+604,flat / apartment,Ikoyi,3 ,3 ,3 ,18000000
+605,terraced duplex,Ogudu,4 ,4 ,5 ,3200000
+606,terraced bungalow,Gbagada,3 ,3 ,3 ,1000000
+607,detached duplex,Lekki,4 ,4 ,5 ,4000000
+608,detached duplex,Kosofe,5 ,5 ,6 ,4500000
+609,flat / apartment,Oniru,3 ,3 ,4 ,4000000
+610,flat / apartment,Ikoyi,4 ,4 ,5 ,30000000
+611,terraced duplex,Ikoyi,4 ,4 ,5 ,7000000
+612,flat / apartment,Victoria Island,3 ,3 ,3 ,10000000
+613,flat / apartment,Ikoyi,3 ,3 ,4 ,12500000
+614,terraced duplex,Ikoyi,4 ,4 ,5 ,5500000
+615,semi detached duplex,Ikoyi,5 ,5 ,5 ,9000000
+616,flat / apartment,Lekki,3 ,3 ,4 ,5000000
+617,flat / apartment,Ikoyi,3 ,3 ,4 ,9000000
+618,detached duplex,Lekki,5 ,5 ,5 ,4000000
+619,detached duplex,Dolphin Estate,4 ,5 ,6 ,7000000
+620,detached bungalow,Lekki,5 ,5 ,6 ,12000000
+621,flat / apartment,Gbagada,3 ,3 ,4 ,1500000
+622,flat / apartment,Ikoyi,3 ,3 ,3 ,6000000
+623,flat / apartment,Victoria Island,3 ,3 ,3 ,18000000
+624,flat / apartment,Ikoyi,3 ,3 ,3 ,7500000
+625,flat / apartment,Ojo,3 ,3 ,4 ,2200000
+626,flat / apartment,Lagos Mainland,2 ,2 ,2 ,700000
+627,flat / apartment,Lagos Mainland,2 ,2 ,3 ,2000000
+628,semi detached duplex,Ikoyi,5 ,5 ,6 ,16000000
+629,flat / apartment,Ikoyi,3 ,3 ,3 ,10000000
+630,flat / apartment,Lagos Mainland,2 ,2 ,2 ,700000
+631,flat / apartment,Ikoyi,4 ,4 ,5 ,25000000
+632,detached duplex,Lekki,5 ,5 ,6 ,4000000
+633,flat / apartment,Victoria Island,3 ,3 ,3 ,12000000
+634,terraced duplex,Ikoyi,4 ,4 ,5 ,15000000
+635,terraced duplex,Ikoyi,4 ,5 ,6 ,15000000
+636,flat / apartment,Ikoyi,4 ,4 ,5 ,8000000
+637,detached duplex,Ikeja,5 ,5 ,6 ,13000000
+638,flat / apartment,Ikoyi,4 ,4 ,5 ,18000000
+639,flat / apartment,Ikoyi,4 ,4 ,5 ,10000000
+640,terraced duplex,Lekki,3 ,3 ,4 ,3500000
+641,flat / apartment,Gbagada,1 ,1 ,1 ,450000
+642,flat / apartment,Victoria Island,3 ,3 ,3 ,10000000
+643,flat / apartment,Victoria Island,3 ,3 ,3 ,15000000
+644,flat / apartment,Ikoyi,3 ,3 ,4 ,8000000
+645,flat / apartment,Oniru,3 ,3 ,4 ,5000000
+646,flat / apartment,Victoria Island,3 ,3 ,4 ,15000000
+647,flat / apartment,Ikoyi,2 ,2 ,3 ,8000000
+648,flat / apartment,Ikoyi,4 ,4 ,4 ,12000000
+649,flat / apartment,Ikoyi,4 ,4 ,4 ,15000000
+650,flat / apartment,Lekki,3 ,2 ,3 ,3000000
+651,detached duplex,Ikeja,5 ,5 ,6 ,15000000
+652,flat / apartment,Lagos Mainland,3 ,3 ,4 ,850000
+653,flat / apartment,Ikoyi,2 ,2 ,3 ,8000000
+654,semi detached duplex,Oniru,4 ,4 ,5 ,8000000
+655,flat / apartment,Lagos Mainland,1 ,1 ,1 ,450000
+656,semi detached duplex,Lekki,4 ,4 ,5 ,4000000
+657,flat / apartment,Lekki,3 ,3 ,4 ,4000000
+658,flat / apartment,Oniru,3 ,3 ,3 ,4000000
+659,flat / apartment,Oniru,2 ,2 ,3 ,3000000
+660,detached duplex,Ojo,5 ,5 ,6 ,6000000
+661,semi detached duplex,Gbagada,3 ,3 ,4 ,2500000
+662,terraced duplex,Ikoyi,3 ,3 ,3 ,16000000
+663,flat / apartment,Ikoyi,3 ,3 ,3 ,13000000
+664,flat / apartment,Oniru,3 ,3 ,4 ,4000000
+665,terraced duplex,Oniru,4 ,4 ,5 ,4300000
+666,flat / apartment,Lekki,3 ,3 ,4 ,2500000
+667,flat / apartment,Ikoyi,3 ,3 ,3 ,13000000
+668,flat / apartment,Oniru,3 ,3 ,3 ,4000000
+669,terraced duplex,Lekki,4 ,4 ,4 ,4000000
+670,terraced duplex,Ogudu,4 ,4 ,5 ,3200000
+671,terraced duplex,Oniru,4 ,4 ,5 ,7500000
+672,flat / apartment,Ikeja,3 ,3 ,4 ,2500000
+673,flat / apartment,Anthony Village,1 ,1 ,2 ,800000
+674,flat / apartment,Gbagada,3 ,3 ,4 ,1200000
+675,flat / apartment,Akoka,1 ,1 ,2 ,700000
+676,flat / apartment,Ikoyi,3 ,3 ,3 ,12000000
+677,flat / apartment,Lagos Mainland,1 ,1 ,1 ,400000
+678,flat / apartment,Oniru,3 ,3 ,4 ,4500000
+679,flat / apartment,Ikoyi,3 ,3 ,3 ,9500000
+680,flat / apartment,Lagos Mainland,1 ,1 ,1 ,600000
+681,flat / apartment,Victoria Island,4 ,4 ,4 ,17000000
+682,flat / apartment,Ikeja,3 ,3 ,4 ,3500000
+683,flat / apartment,Victoria Island,5 ,5 ,5 ,25000000
+684,flat / apartment,Ikoyi,4 ,4 ,5 ,10000000
+685,flat / apartment,Ikoyi,3 ,3 ,4 ,8500000
+686,flat / apartment,Oniru,3 ,3 ,3 ,6000000
+687,flat / apartment,Kosofe,2 ,2 ,2 ,800000
+688,flat / apartment,Lekki,3 ,3 ,4 ,4500000
+689,flat / apartment,Ikoyi,3 ,3 ,4 ,10000000
+690,terraced duplex,Ikeja,5 ,5 ,6 ,13000000
+691,flat / apartment,Akoka,3 ,3 ,4 ,1100000
+692,detached duplex,Lekki,4 ,4 ,5 ,6500000
+693,detached bungalow,Lekki,4 ,4 ,4 ,4500000
+694,flat / apartment,Ikoyi,1 ,1 ,1 ,7000000
+695,flat / apartment,Ikoyi,4 ,4 ,5 ,8500000
+696,flat / apartment,Ikoyi,4 ,4 ,5 ,12000000
+697,flat / apartment,Gbagada,1 ,1 ,2 ,700000
+698,flat / apartment,Oniru,3 ,3 ,4 ,4000000
+699,flat / apartment,Ikoyi,3 ,3 ,4 ,5000000
+700,flat / apartment,Oniru,3 ,3 ,4 ,4500000
+701,flat / apartment,Lagos Mainland,3 ,3 ,3 ,400000
+702,flat / apartment,Victoria Island,3 ,3 ,4 ,12000000
+703,flat / apartment,Oniru,3 ,3 ,3 ,4000000
+704,terraced duplex,Kosofe,5 ,5 ,6 ,5000000
+705,detached duplex,Ikeja,5 ,5 ,6 ,12000000
+706,flat / apartment,Lekki,4 ,3 ,4 ,4700000
+707,flat / apartment,Ikeja,2 ,2 ,3 ,1200000
+708,flat / apartment,Ojo,3 ,3 ,3 ,1500000
+709,flat / apartment,Lekki,2 ,2 ,3 ,2500000
+710,terraced duplex,Ikoyi,5 ,5 ,6 ,6000000
+711,semi detached duplex,Ikoyi,4 ,4 ,5 ,12000000
+712,flat / apartment,Ikoyi,4 ,4 ,5 ,35000000
+713,flat / apartment,Lekki,3 ,3 ,3 ,3500000
+714,flat / apartment,Ikoyi,4 ,4 ,5 ,15000000
+715,flat / apartment,Ojo,3 ,3 ,4 ,2200000
+716,semi detached duplex,Oniru,4 ,4 ,5 ,5000000
+717,detached duplex,Ikoyi,4 ,4 ,4 ,7000000
+718,flat / apartment,Victoria Island,3 ,3 ,4 ,24000000
+719,semi detached duplex,Lekki,4 ,4 ,4 ,3500000
+720,flat / apartment,Lagos Mainland,2 ,2 ,3 ,350000
+721,flat / apartment,Ikoyi,3 ,3 ,3 ,7500000
+722,detached duplex,Ikoyi,4 ,4 ,5 ,25000000
+723,flat / apartment,Victoria Island,4 ,4 ,4 ,18000000
+724,flat / apartment,Victoria Island,3 ,3 ,4 ,5000000
+725,flat / apartment,Ikoyi,3 ,3 ,3 ,70000000
+726,semi detached duplex,Gbagada,5 ,4 ,4 ,3000000
+727,detached duplex,Ikoyi,4 ,4 ,4 ,20000000
+728,flat / apartment,Ojo,3 ,3 ,4 ,2200000
+729,flat / apartment,Oniru,3 ,3 ,4 ,3700000
+730,flat / apartment,Ikoyi,2 ,2 ,2 ,6500000
