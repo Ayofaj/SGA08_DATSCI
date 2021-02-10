@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+fastapi
+uvicorn
+uvloop
+httptools
+scikit-learn
+gunicorn==19.9.0
+catboost
+https://files.pythonhosted.org/packages/20/37/bc4e0ddc30c07a96482abf1de7ed1ca54e59bba2026a33bca6d2ef286e5b/catboost-0.24.4-cp36-none-manylinux1_x86_64.whl
